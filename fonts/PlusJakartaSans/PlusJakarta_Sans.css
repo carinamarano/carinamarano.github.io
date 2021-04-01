@@ -126,8 +126,8 @@
     font-family: 'PlusJakartaSans-BoldItalic';
     src: url('https://carinamarano.github.io/fonts/PlusJakartaSans/PlusJakartaSans-BoldItalic.woff2') format('woff2'),
          url('https://carinamarano.github.io/fonts/PlusJakartaSans/PlusJakartaSans-BoldItalic.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-weight: 700;
+    font-style: italic;
 
 }
 

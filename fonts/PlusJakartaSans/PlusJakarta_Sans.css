@@ -123,11 +123,11 @@
 
 
 @font-face {
-    font-family: 'PlusJakartaSans';
+    font-family: 'PlusJakartaSans-BoldItalic';
     src: url('https://carinamarano.github.io/fonts/PlusJakartaSans/PlusJakartaSans-BoldItalic.woff2') format('woff2'),
          url('https://carinamarano.github.io/fonts/PlusJakartaSans/PlusJakartaSans-BoldItalic.woff') format('woff');
-    font-weight: bold;
-    font-style: italic;
+    font-weight: normal;
+    font-style: normal;
 
 }
 

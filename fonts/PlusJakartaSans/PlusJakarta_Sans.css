@@ -15,10 +15,10 @@
 
 
 @font-face {
-    font-family: 'Plus_Jakarta_SansMdIt';
+    font-family: 'PlusJakartaSans-MediumItalic';
     src: url('https://carinamarano.github.io/fonts/PlusJakartaSans/PlusJakartaSans-MediumItalic.woff2') format('woff2'),
          url('https://carinamarano.github.io/fonts/PlusJakartaSans/PlusJakartaSans-MediumItalic.woff') format('woff');
-    font-weight: medium;
+    font-weight: 600;
     font-style: italic;
 
 }

@@ -103,7 +103,7 @@
     src: url('https://carinamarano.github.io/fonts/PlusJakartaSans/PlusJakartaSans-ExtraBoldItalic.woff2') format('woff2'),
          url('https://carinamarano.github.io/fonts/PlusJakartaSans/PlusJakartaSans-ExtraBoldItalic.woff') format('woff');
     font-weight: 800;
-    font-style: normal;
+    font-style: italic;
 
 }
 

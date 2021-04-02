@@ -6,7 +6,7 @@
     font-family: 'PlusJakartaSans-Regular';
     src: url('https://carinamarano.github.io/fonts/PlusJakartaSans/PlusJakartaSans-Regular.woff2') format('woff2'),
          url('https://carinamarano.github.io/fonts/PlusJakartaSans/PlusJakartaSans-Regular.woff') format('woff');
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
 
 }
